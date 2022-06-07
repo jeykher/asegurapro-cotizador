@@ -1,0 +1,4 @@
+.container-hiden {
+    inset: initial !important;
+    opacity: 0 !important;
+}

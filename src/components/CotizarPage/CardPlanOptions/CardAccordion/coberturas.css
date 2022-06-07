@@ -1,0 +1,36 @@
+@media (min-width: 500px) and (max-width: 1025px) {
+  .accordion-container {
+    position: relative !important;
+    width: 100% !important;
+    margin: auto;
+  }
+
+}
+
+#panel1a-header {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .button-print-compare {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container-paper-pdf {
+    display: grid !important;
+  }
+}
+
+
+.accordion-container {  
+  margin: auto;
+}
+.hide-coberts-container {
+  display: none;
+}
+
+.css-1xs4v44>:not(style) {
+  padding: 0 !important;
+}

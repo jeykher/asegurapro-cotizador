@@ -1,0 +1,22 @@
+.container-grid-details {
+    margin: 20px 40px;
+}
+
+@media (min-width:768px){
+
+    .container-accordion-plan-details {
+        width: 80%;
+        position: relative;
+        margin-left: 35px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container-grid-details {
+        margin: 0;
+    }
+}
+
+.panel-accordion-grid {
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+@media (max-width: 780px) {
+  .makeStyles-paper-2 {
+    width: 90% !important;
+  }
+  .makeStyles-paper-35 {
+    width: 90% !important;
+  }
+}
+button {
+  width: 150px;
+  margin: auto !important;
+}
